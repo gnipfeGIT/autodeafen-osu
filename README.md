@@ -1,3 +1,5 @@
+# Preview https://youtu.be/ilrXSkWvlVs
+
 # Auto Deafen osu!
 
 A small Windows utility that toggles Discord deafen while you are still full-comboing an osu! map.
