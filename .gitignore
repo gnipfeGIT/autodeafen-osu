@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+
+# Release/build outputs
+dist/
+dist*/
+release/
+artifacts/
+publish*/
+*.zip
+*.nupkg
+*.pdb
+*.exe
+*.ps1
